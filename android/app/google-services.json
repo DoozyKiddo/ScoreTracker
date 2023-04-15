@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "116814914366",
+    "project_id": "scoretracker-6851b",
+    "storage_bucket": "scoretracker-6851b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116814914366:android:2216fd33354b0b439e826f",
+        "android_client_info": {
+          "package_name": "com.codingminds.scoretracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116814914366-vnud6vefdf4cp2oajdocomcb5aivu36r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_GYUAr94KFdY5E9RRxbyer6gjpsmoE5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116814914366-vnud6vefdf4cp2oajdocomcb5aivu36r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116814914366-02fm8nv5ulni2nq353pjrk50h3takie0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingminds.scoretracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
